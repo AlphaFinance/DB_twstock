@@ -1,1 +1,1 @@
-# DB_twstock
+## Big Data for Taiwan stock 
